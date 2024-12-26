@@ -4,7 +4,7 @@ import SwiftUI
 struct pixxelsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView() // Ensure this is the main view
+            MainView() // Use the actual name
         }
     }
 }
